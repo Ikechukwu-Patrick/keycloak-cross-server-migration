@@ -3,7 +3,7 @@
 # Source Keycloak Configuration
 SOURCE_KEYCLOAK_URL="https://ubuntukeycloak.enum.africa"
 SOURCE_ADMIN_USER="admin"
-SOURCE_ADMIN_PASSWORD="semicolonadmin@keyc1oak"
+SOURCE_ADMIN_PASSWORD=""
 SOURCE_REALM="enum-dev"
 
 # Target Keycloak Configuration
